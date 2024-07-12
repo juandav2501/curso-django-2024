@@ -8,3 +8,4 @@ Participantes:
 - Yurley Sanchez: [Yursksf1](https://github.com/Yursksf1)
 - Johan Carvajal: [HavertzZ04](https://github.com/HavertzZ04) 
 - Jasmel Blanco: [Jhansakai](https://github.com/Jhansakai)
+- Yezid Blanco: [YezidBlanco](https://github.com/YezidBlanco)
