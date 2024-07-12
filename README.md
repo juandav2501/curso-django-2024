@@ -1,5 +1,6 @@
 # curso-django-2024
 Curso de Django 
 
-Integrantes:
-Yursksf1
+
+Participantes: 
+- Yurley Sanchez: 
