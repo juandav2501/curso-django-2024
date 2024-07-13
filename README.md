@@ -9,3 +9,4 @@ Participantes:
 - Johan Carvajal: [HavertzZ04](https://github.com/HavertzZ04) 
 - Jasmel Blanco: [Jhansakai](https://github.com/Jhansakai)
 - Yezid Blanco: [YezidBlanco](https://github.com/YezidBlanco)
+- Andrea Duarte: [Andrea0399](https://github.com/Andrea0399)
