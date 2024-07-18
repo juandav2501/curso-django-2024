@@ -11,3 +11,4 @@ Participantes:
 - Yezid Blanco: [YezidBlanco](https://github.com/YezidBlanco)
 - Dino Herrera: [dinoherrera](https://github.com/dinoherrera)
 - Andrea Duarte: [Andrea0399](https://github.com/Andrea0399)
+- Juan Dotero F: [juandav2501](https://github.com/juandav2501)
